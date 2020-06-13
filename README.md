@@ -1,5 +1,5 @@
 ## Data visualization samples
-In this project, I am reproducing figures in *Visualizing Data*, the book written  by William Cleveland. 
+In this project, I am reproducing figures in *Visualizing Data*, a book written  by William Cleveland. 
 - The `cleveland_vizdata.Rmd` contains R code that generates the figures.
 - The `cleveland_vizdata.md` is the rendered file in github document format showing the figures.
 
